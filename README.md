@@ -1,4 +1,5 @@
 AnimalShelter 1.1v
+
 https://github.com/Nerakhon
 
 =================================================
@@ -35,7 +36,8 @@ Usage :
 
 Recreated from:
 HORSE SHOP FOR REDEM 0.1v by #mrlupo# / #Proky# / #Plouffe#  
-https://github.com/Proky0
-https://github.com/mrlupo
-https://github.com/mrlupo/elrp_horsedealer
-https://github.com/kamelzarandah/pets-edit
+https://github.com/Proky0<br>
+https://github.com/mrlupo<br>
+https://github.com/mrlupo/elrp_horsedealer<br>
+https://github.com/kamelzarandah/pets-edit<br>
+
